@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Luana Caroliny
 
 - 💻 Trabalho como Líder Técnica de Desenvolvimento de Software.
-- 🌱 Estudando Python
+- 🌱 Estudando TypeScript, Kotlin e Python
 
 ##
 
