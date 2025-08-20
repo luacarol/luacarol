@@ -10,7 +10,7 @@
 
 #
 
-<p align="center">Sou Software Engineer at iFood, trabalhando especificamente com SRE Cloud. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Sou Engenheira de Software no iFood, trabalhando especificamente com SRE Cloud. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
